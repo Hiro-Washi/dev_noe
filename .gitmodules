@@ -2,6 +2,6 @@
 [submodule "micon_dev/arduino/sketch_test"]
 	path = micon_dev/arduino/sketch_test
 	url = https://github.com/Hiro-Washi/sketch_test.git
-[submodule "mc_dev/drl/drl_exer"]
-	path = mc_dev/drl
-	url = https://github.com/Hiro-Washi/drl_exer.git
+#[submodule "mc_dev/drl/drl_exer"]
+#	path = mc_dev/drl
+#	url = https://github.com/Hiro-Washi/drl_exer.git
