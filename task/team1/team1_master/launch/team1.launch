@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="" name="" type="" output=""/>
+    <node pkg="ggi_master" name="team1_ggi_master" type="team1_ggi_master.py" output="screen"/>
+</launch>

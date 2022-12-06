@@ -1,0 +1,7 @@
+float32 dist
+float32 velo
+---
+bool result
+---
+string state
+float32 dist

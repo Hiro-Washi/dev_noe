@@ -1,0 +1,5 @@
+<launch>
+  <node name="yaml_test" pkg="yaml_cpp_tes" type="yaml_test.cpp" output="screen"/>
+    <rosparam command="load" file="$(find yaml_cpp_tes)/config/config.yaml"/>
+  </node>
+</launch>
