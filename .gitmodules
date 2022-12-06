@@ -1,0 +1,4 @@
+
+[submodule "micon_dev/arduino/sketch_test"]
+	path = micon_dev/arduino/sketch_test
+	url = https://github.com/Hiro-Washi/sketch_test.git
